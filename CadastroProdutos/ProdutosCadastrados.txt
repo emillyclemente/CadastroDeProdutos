@@ -1,0 +1,2 @@
+Produto, Nome: feijão, Categoria: alimento, Marca: camil, Preço: 5.0
+Produto, Nome: arroz, Categoria: pantera, Marca: alimento, Preço: 20.0

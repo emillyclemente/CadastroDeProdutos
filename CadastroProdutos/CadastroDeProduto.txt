@@ -1,0 +1,1 @@
+Produto, Nome: feijão, Categoria: alimento, Marca: camil, Preço: 5.0
