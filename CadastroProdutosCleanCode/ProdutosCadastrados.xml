@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produtos>
+    <Produto id="1">
+        <Nome>Suco</Nome>
+        <Categoria>Bebidas</Categoria>
+        <MarcaProduto>
+            <Marca>Dell Vale</Marca>
+            <Preco>3.5</Preco>
+        </MarcaProduto>
+    </Produto>
+</Produtos>
